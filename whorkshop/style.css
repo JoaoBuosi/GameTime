@@ -18,7 +18,6 @@ header {
   position: fixed;
   top: 0;
   width: 100%;
-  background: rgba(17, 30, 57, 0.3); /* leve transparência */
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -254,3 +253,4 @@ form button:hover {
     display: flex;
   }
 }
+
